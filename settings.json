@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.renderWhitespace": "boundary",
+    "files.associations": {
+        "*.xsjs": "javascript",
+        "*.xsjslib": "javascript"
+    },
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "vs-minimal",
+    "window.zoomLevel": 1
+}
